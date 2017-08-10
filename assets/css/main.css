@@ -1429,8 +1429,8 @@
 				-ms-transition: top .2s ease-in-out;
 				transition: top .2s ease-in-out;
 				display: block;
-				width: 48px;
-				height: 48px;
+				width: 100px;
+				height: 100px;
 				border-radius: 6px;
 				top: 0;
 				position: relative;
@@ -1451,13 +1451,13 @@
 					color: #2E2E2E !important;
 					display: block;
 					font-size: 26px;
-					height: 48px;
+					height: 100px;
 					line-height: 48px;
 					text-align: center;
 					outline: 0;
 					overflow: hidden;
 					text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.1);
-					width: 48px;
+					width: 100px;
 				}
 
 				ul.social li a.fa-twitter {
